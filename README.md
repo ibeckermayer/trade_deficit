@@ -40,4 +40,4 @@ Other than my commentary on Trump's recent actions, I haven't said much more tha
 [3]: https://fred.stlouisfed.org/series/TOTALSL
 [4]: https://www.usgovernmentspending.com/include/usgs_chart4p01.png
 [5]: https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD?locations=US
-[6]: https://gist.github.com/ibeckermayer/c25c566059cf25aded6cce26da1ccd62?permalink_comment_id=5529495#gistcomment-5529495
+[6]: ./Real_PMSAVE.png
